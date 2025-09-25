@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alumno/Downloads/FPS_Void2/Content/FPS.uasset",
+				"C:/Users/Alumno/Downloads/FPS_Void2/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset",
+				"C:/Users/Alumno/Downloads/FPS_Void2/Content/AnimStarterPack/CameraAnimation.uasset",
+				"C:/Users/Alumno/Downloads/FPS_Void2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset",
+				"C:/Users/Alumno/Downloads/FPS_Void2/Content/FirstPersonBP/Blueprints/FrostDamage.uasset"
+			]
+		}
+	]
+}
